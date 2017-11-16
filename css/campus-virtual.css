@@ -127,11 +127,17 @@
   .bg-inverse
   {
     color: #f3f2f2!important;
-    background-color: rgba(55, 58, 60, 0.69)!important;
+    background-color: rgba(0,0,0, 0.7)!important;
   }
 
   #page-footer a
   {
     color: #53b6ff;
+  }
+
+  #page-footer
+  {
+    min-height: 70px;
+    text-align: left;
   }
 }
