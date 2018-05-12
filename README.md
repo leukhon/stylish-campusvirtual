@@ -1,7 +1,11 @@
 # Stylish Campus Virtual UCLM
 ---
+### Motivación
+Este es un proyecto simple puesto a disposición del público por peticion de alumnos de la UCLM
+
+---
 ### Introducción
-El Campus Virtual de la UCLM es un espacio en donde docentes y discentes pueden interactuar con el sistema (Moodle) para conseguir información sean transparencias, ejercicios, etc.
+El Campus Virtual de la UCLM es un espacio en donde docentes y discentes utilizan un sistema de gestión de contenidos llamado Moodle para conseguir información sean transparencias, ejercicios, etc.
 
 El diseño del Campus Virtual, tanto el login como la página principal, tienen un diseño monótono, seco y aburrido que desgana al usuario el acceso. Con un buen cambio en la hoja de Estilos en ambas webs, obtenemos una web mas colorida y que llama mas la atención del usuario, promoviendo acceder mas a menudo a la web.
 
